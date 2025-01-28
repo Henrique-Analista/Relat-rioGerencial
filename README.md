@@ -1,0 +1,1 @@
+Relatório Gerencial para tomada de decisões. Neste relatório é possível ver de forma geral o estado das vendas, e nas páginas subsequentes visuais que mostram maiores detalhes sobre o lucro e as vendas do negócio.
